@@ -9,7 +9,7 @@ import java.io.Serializable;
  */
 public class BaseData implements Serializable {
 
-    public String status;
-    public String msg;
+    public int code;
+    public String message;
 
 }
