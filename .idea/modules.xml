@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PKService.iml" filepath="$PROJECT_DIR$/PKService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PKRService.iml" filepath="$PROJECT_DIR$/PKRService.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PKBase/base/base.iml" filepath="$PROJECT_DIR$/../PKBase/base/base.iml" />
     </modules>
