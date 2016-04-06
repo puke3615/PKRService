@@ -17,6 +17,7 @@ public class User extends BaseData {
     }
 
     public static class Result {
+        public String uid;
         public String username;
         public String password;
     }
